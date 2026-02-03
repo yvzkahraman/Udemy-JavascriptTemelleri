@@ -1,0 +1,1 @@
+console.log("ben dosyadan geldim"); console.log("ben dosyadan geldim 2"); console.log("ben dosyadan geldim 3")
