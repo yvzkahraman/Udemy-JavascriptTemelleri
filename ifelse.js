@@ -34,8 +34,8 @@
 
 // ? if else
 
-  let value = "Yavuz";
-   console.log(value == "Yavuz" ? "Sen yavuzsun":"Sen yavuz değilsin")
+  // let value = "Yavuz";
+  //  console.log(value == "Yavuz" ? "Sen yavuzsun":"Sen yavuz değilsin")
 
-   if(value == "Yavuz")
-      console.log("Sen yavuzsun")
+  //  if(value == "Yavuz")
+  //     console.log("Sen yavuzsun")
