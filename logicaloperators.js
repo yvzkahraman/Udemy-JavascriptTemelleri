@@ -18,15 +18,39 @@
 // console.log ("false || true",false || true)
 // console.log("false || false",false || false)
 
-if(3>5 || 3<4 || "önemsiz"){
-  console.log("if çalıştı")
+// if(3>5 || 3<4 || "önemsiz"){
+//   console.log("if çalıştı")
+// }
+
+// let value = 3>5 || 3<2 || "önemsiz";
+
+
+// 3>5 || (value ="yavuz")
+
+
+
+// console.log("value",value)
+
+// 
+
+console.log("true && true", true&& true);
+console.log("false && false", false && false);
+console.log("false && true", false && true);
+console.log("true && false", true && false);
+
+if (3<5 && 3<2){
+console.log("çalışmak")
 }
 
-let value = 3>5 || 3<2 || "önemsiz";
+let control = 3>5 || 3>4 || "yavuz";
+console.log("control",control)
+ if(control){
+   console.log("if çalıştı")
+ }
 
+ if("1"){
 
-3>5 || (value ="yavuz")
+ }
+ if("yavuz "){
 
-
-
-console.log("value",value)
+ }
