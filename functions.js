@@ -38,13 +38,36 @@
 
 // iplik
 
-function showMessage(message) {
-  console.log("message", message);
+// function showMessage(message) {
+//   console.log("message", message);
 
-  message = message || "bilinmeyen mesaj";
+//   message = message || "bilinmeyen mesaj";
 
-  alert("show message : " + message);
+//   alert("show message : " + message);
+// }
+
+// showMessage();
+
+console.log("sen :", calculateAge(1993));
+
+function calculateAge(birthYear) {
+  return 2026 - +birthYear;
 }
 
-showMessage();
+// let year = prompt("Kaç yılında doğdun", 2000);
 
+// let returnValue = calculateAge(year);
+
+// alert("Sen " + returnValue + " yaşındasın");
+
+let calculatedAge = calculateAge2(1994);
+
+console.log("hesaplanmış yaş", calculatedAge);
+
+let calculateAge2 = function (birthYear) {
+  return 2026 - +birthYear;
+};
+
+console.log("calculateAge2", calculateAge2("2000"));
+
+//arrow 
