@@ -1,0 +1,15 @@
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/bin/Debug/net10.0/NumbersExample
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/bin/Debug/net10.0/NumbersExample.deps.json
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/bin/Debug/net10.0/NumbersExample.runtimeconfig.json
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/bin/Debug/net10.0/NumbersExample.dll
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/bin/Debug/net10.0/NumbersExample.pdb
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.AssemblyInfoInputs.cache
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.AssemblyInfo.cs
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.csproj.CoreCompileInputs.cache
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.sourcelink.json
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.dll
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/refint/NumbersExample.dll
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.pdb
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/NumbersExample.genruntimeconfig.cache
+/home/yavuz/Desktop/Udemy/JavascriptTemelleri/NumbersExample/obj/Debug/net10.0/ref/NumbersExample.dll
