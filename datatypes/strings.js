@@ -37,3 +37,4 @@ console.log("trim", sentence.trim())
 
 
 console.log("replace", sentence.replace("Yavuz", "Selim"))
+h
